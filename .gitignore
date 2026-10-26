@@ -1,0 +1,9 @@
+# Rust build output
+target/
+
+# mdBook build output - generated, never committed.
+book/dist/
+
+# Editor / OS scratch
+*.swp
+.DS_Store
